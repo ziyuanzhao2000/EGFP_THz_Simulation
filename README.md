@@ -1,0 +1,1 @@
+This repository holds data files and scripts used in the EGFP_THz simulation project at Hekstra lab, summer 2022. The goal is to complement time-resolved X-ray data obtained from EGFP “pumped” with a THz waveform
